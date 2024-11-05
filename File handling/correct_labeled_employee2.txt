@@ -1,0 +1,7 @@
+Sunday: 3
+Monday: 0
+Tuesday: 0
+Wednesday: 8
+Thursday: 8
+Friday: 3
+Saturday: 0
